@@ -56,10 +56,41 @@ Today, JavaScript can be found virtually everywhere. From AJAX, to Bootstrap, to
 Frameworks
 >
 One of the biggest ways JavaScript has changed since its inception is in its use. Gone are the days of awkward document.GetElementById calls and cumbersome XmlHttpRequest objects. Instead, helpful libraries have abstracted much of the root functionality making JavaScript more accessible to developers. This is a big part of why you see JavaScript everywhere.
+>
+Posted by David Haney on Mar 09, 2015
+!http://www.infoq.com/articles/modern-javascript-toolbox
 
-jQuery
+### Frameworks
+See below the list of several frameworks
 
-jQuery was created in 2006 by John Resig. It provides a rich set of tools that abstract and simplify cryptic and rigid JavaScript commands and methods.
+* AngularJS
+* Backbone with Marionette
+* jQuery
+* Moment js
+* Underscore js
+* Lodash js
+* Modernize
+* require js
+
+
+#### Test Frameworks
+* Jasmine
+* Protractor
+
+#### Tools - Build System
+* Yeoman
+* bower
+* gulp
+* grunt
+* node js
+
+
+
+
+
+
+
+
 
 
 
