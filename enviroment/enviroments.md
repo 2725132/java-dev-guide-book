@@ -1,5 +1,5 @@
 # Ambientes
 
-{% include "./local.md" %}
+{% include "local.md" %}
 
-{% include "./server.md" %}
+{% include "server.md" %}
