@@ -1,13 +1,3 @@
-# Java Reference Guide
-
-This guide is collect of commons patterns and practices used into Company
-
-## Macro Architecture
-
-# Web Application
-
-## Front-End - JSF
-
 ## Front-End - Single Page Application
 ### HTML5 + CSS3 + Javascript
 
@@ -71,29 +61,3 @@ See below the list of several frameworks
 * gulp
 * grunt
 * node js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Back-End
-
-
-# Continuous Integration
