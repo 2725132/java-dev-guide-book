@@ -1,40 +1,23 @@
 # Java Web Application Architecture
 
-#### ORM
-* Hibernate / Eclipse Link
-* Spring Data
 
-#### Dependence Injection
-* Spring Framework
+##### Sample Architecture I
+Below is an example of application architecture, recommended for applications requiring integration between systems and asynchronous mechanisms
 
-#### Security
-* Spring Security
+![back-end-sample-one](/assets/imgs/Backend Architecture V1.png)
 
-#### Web Service
-* Spring WS
-* CFX
-* Camel
+##### Sample Architecture II
+Below an example of application architecture recommended for the simplest web applications without the need for complex processes
 
-#### JMS
-* Camel
+![back-end-sample-two](/assets/imgs/Backend Architecture V2 - Simple Web App.png)
 
-####  Rest Controller
-* Spring MVC
-* Jersey
-* Camel
 
-### Test
+## Frameworks version
+For all frameworks below we recommend to use **last version** of this, according to the dependencies compatibility map
 
-###### TDD
-* Spring Test
-* Mockito
-* EasyMock
-* PowerMock
+Example : pom.xml
 
-###### BDD
-* EasyB
-* JBehave
+#### Manage Application dependence
+* Maven
 
-###### Integrated Test
-* Selenium
-* HtmlUnit
+{% include "frameworks.md" %}

@@ -1,4 +1,4 @@
-## Front-End - Single Page Application
+## Front-End - Single Page Application (Recomendend)
 ### HTML5 + CSS3 + Javascript
 
 >Modern web development techniques to build a single-page app that doesn’t need to reload itself as the user browses through it. This pattern is more of a complete restructuring of how the web works rather than something you can hack into your app afterwards.
