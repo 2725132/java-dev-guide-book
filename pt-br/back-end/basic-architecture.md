@@ -4,12 +4,12 @@
 ##### Sample Architecture I
 Below is an example of application architecture, recommended for applications requiring integration between systems and asynchronous mechanisms
 
-![back-end-sample-one](/assets/imgs/Backend Architecture V1.png)
+![back-end-sample-one](../../assets/imgs/Backend Architecture V1.png)
 
 ##### Sample Architecture II
 Below an example of application architecture recommended for the simplest web applications without the need for complex processes
 
-![back-end-sample-two](/assets/imgs/Backend Architecture V2 - Simple Web App.png)
+![back-end-sample-two](../../assets/imgs/Backend Architecture V2 - Simple Web App.png)
 
 
 ## Frameworks version
