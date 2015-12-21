@@ -9,6 +9,6 @@ Segue abaixo alguns princípios que são amplamente recomendado pela comunidade 
 ##### Dependency inversion principle (DIP)
 
 ## Principles of Package Architecture
-##### The Release Reuse Equivalency Principle (REP)1
-##### The Common Closure Principle (CCP)2
-##### The Common Reuse Principle (CRP)3
+##### The Release Reuse Equivalency Principle (REP)
+##### The Common Closure Principle (CCP)
+##### The Common Reuse Principle (CRP)
