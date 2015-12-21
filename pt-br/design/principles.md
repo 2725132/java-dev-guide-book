@@ -12,3 +12,7 @@ Segue abaixo alguns princípios que são amplamente recomendado pela comunidade 
 ##### The Release Reuse Equivalency Principle (REP)
 ##### The Common Closure Principle (CCP)
 ##### The Common Reuse Principle (CRP)
+
+## Arquitetura Hexagonal
+
+## Domain Driven Design
